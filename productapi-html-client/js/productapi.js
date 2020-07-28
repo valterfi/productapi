@@ -3,7 +3,7 @@ $(document).ready(function(){
 	// Activate tooltip
     $('[data-toggle="tooltip"]').tooltip();
 
-    let baseUrl = 'http:/localhost:8080/'
+    let baseUrl = 'http://localhost:8080/'
 
     updateTable();
 
