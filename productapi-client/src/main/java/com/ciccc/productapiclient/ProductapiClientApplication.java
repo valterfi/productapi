@@ -15,20 +15,9 @@ public class ProductapiClientApplication {
 
 	public static void main(String[] args) {
 		
+		createProduct("product5", 55.5);
+		
 		getProducts();
-		
-//		Product product = getProduct(814873251);
-//		product.setPrice(999.1);
-//		
-//		updateProduct(product);
-		
-		//createProduct("product888", 88.8);
-		
-		//getProducts();
-		
-		//deleteProduct(690903730);
-		
-		//getProducts();
 		
 	}
 	
