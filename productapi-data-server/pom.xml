@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ciccc</groupId>
-	<artifactId>productapi</artifactId>
+	<artifactId>productapi-data-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>productapi</name>
+	<name>productapi-data-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
